@@ -33,7 +33,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-### 5.Run the Code
+### 4.Run the Code
 
 ```bash
 streamlit run main.py
